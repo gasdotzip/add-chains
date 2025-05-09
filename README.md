@@ -7,12 +7,9 @@
 
 At Gas.zip we strive to integrate and support nearly any and all chains that are in demand. With dozens of reference points online for discovering new chains, we can't stay atop of them all. By open sourcing our global chain list, we hope contributors and ecosystem members will assist in adding new and desirable mainnet and testnet chains as soon as they become available. 
 
-
-## Submitting a Chain
+## Submission Template
 
 All chains not in the production chainlist folder are eligible for submission. This does **not** mean that the chain is guaranteed to be added to Gas.zip. We will assess every chain submitted, and users who submit chains that go on to be deemed desirable and sufficient enough to be added to Gas.zip will receive contribution points. 
-
-## Submission Template
 
 Submit a chainID.json file to the ```staging_chains``` folder with the following: 
 
