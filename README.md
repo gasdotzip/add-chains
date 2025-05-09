@@ -18,7 +18,7 @@ Submit a chainID.json file to the ```staging_chains``` folder with the following
 
 Inline within your PR (but not your chainID.json): **Website:**, **Chain Logo:**, **Bridge:**
 
-<b>YourchainID.json:</b>: 
+<b>chainID.json:</b>: 
 ```
 {
     "chainId": "",
