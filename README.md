@@ -41,25 +41,18 @@ Your PR should additionally have the following inline, but **not** in the chains
 
 For the highest quality submission and best chances of being added to the repositry, please consider the following tips: 
 
-**chainID:** Formal chainID
-
-**rpcs:** Public RPCs, ideally as many as possible however one is sufficent. 
-
-**name:** Formal chain name (including, X Sepolia, X Testnet if not Sepolia bridged or etc).
-
-**symbol:** Canonical tokens symbol or ticker (the chains gas token). 
-
-**mainnet:** True or false. 
-
-**address:** EVM, SVM, MOVE, or INIT.
-
-**explorer:** Explorer URL, active and working.
-
-**Website:** Formal project website.
-
-**Chain Logo:** Ideally, a 400 x 400 SVG. PNGs acceptable however SVGs strongly preferred. 
-
-**Bridge:** Ideally, the canonical bridge, if not, then the primary method of bridging assets to the chain. 
+| Field | Requirements |
+|-------|-------------|
+| chainID | Formal chainID. |
+| rpcs | Public RPCs, ideally as many as possible. |
+| name | Formal chain name (including X Sepolia, X Testnet). |
+| symbol | Canonical tokens symbol or ticker (the chain's gas token). |
+| mainnet | True or false. |
+| address | EVM, SVM, MOVE, or INIT. |
+| explorer | Explorer URL, active and working. |
+| Website | Formal project website. |
+| Chain Logo | Ideally, a 400 x 400 SVG. PNGs acceptable. |
+| Bridge | The canonical bridge or the primary method of bridging.|
 
 ## Contribution Points
 
