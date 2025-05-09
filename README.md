@@ -10,7 +10,7 @@ At Gas.zip we strive to integrate and support nearly any and all chains that are
 
 ## Submitting a Chain
 
-All chains not in the production chainlist folder are eligible for submission. This does **not** mean that the chain is guaranteed to be added to Gas.zip. We will take in and assess every chain submitted, and users who submit chains that go on to be deemed desirable and sufficient enough to be added to Gas.zip will receive contribution points. 
+All chains not in the production chainlist folder are eligible for submission. This does **not** mean that the chain is guaranteed to be added to Gas.zip. We will assess every chain submitted, and users who submit chains that go on to be deemed desirable and sufficient enough to be added to Gas.zip will receive contribution points. 
 
 ## Submission Template
 
