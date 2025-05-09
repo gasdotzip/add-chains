@@ -39,7 +39,7 @@ Your PR should additionally have the following inline, but **not** in the chains
 
 ## Submission Tips
 
-For the highest quality submission and best chances of being added to the repositry, please consider the following tips: 
+For the highest quality submission and highest chance of being added, please consider the following: 
 
 | Field | Requirements |
 |-------|-------------|
