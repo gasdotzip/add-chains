@@ -16,7 +16,9 @@ All chains not in the production chainlist folder are eligible for submission. T
 
 Submit a chainID.json file to the ```staging_chains``` folder with the following: 
 
-<b>chainID.json</b>: 
+Inline within your PR (but not your chainID.json): **Website:**, **Chain Logo:**, **Bridge:**
+
+<b>YourchainID.json:</b>: 
 ```
 {
     "chainId": "",
@@ -28,13 +30,6 @@ Submit a chainID.json file to the ```staging_chains``` folder with the following
     "explorer": ""
 }
 ```
-Your PR should additionally have the following inline, but **not** in the chains.json: 
-
-**Website:** 
-
-**Chain Logo:**
-
-**Bridge:**
 
 ## Submission Tips
 
