@@ -1,0 +1,11 @@
+{
+    "chainId": "6911",
+    "rpcs": [
+        "https://evm-rpc.testnet-2.nibiru.fi"
+    ],
+    "name": "Nibiru",
+    "symbol": "NIBI",
+    "mainnet": false,
+    "address": "EVM",
+    "explorer": "https://testnet.nibiscan.io/"
+}
