@@ -1,8 +1,7 @@
 {
     "chainId": "6900",
     "rpcs": [
-        "https://evm-rpc.nibiru.fi",
-        "https://evm-rpc.archive.nibiru.fi"
+        "https://evm-rpc.nibiru.fi"
     ],
     "name": "Nibiru",
     "symbol": "NIBI",
